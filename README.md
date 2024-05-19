@@ -1,1 +1,1 @@
-# Glyphosate-chatbopt
+# Glyphosate-chatbot
